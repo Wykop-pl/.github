@@ -2,6 +2,8 @@
 
 ![Wykop.pl](https://github.com/Wykop-pl/statics/raw/main/1280x640.png)
 
+[Wykop.pl Unofficial Community Issues](https://github.com/Wykop-pl/Issues/issues)
+
 ## Kontakt
 
 * https://wykop.pl/ludzie/m__b
