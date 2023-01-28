@@ -1,5 +1,6 @@
 # [Wykop.pl Unofficial Community Issues](https://github.com/Wykop-pl/Issues/issues)
 
+![Wykop.pl](https://github.com/Wykop-pl/statics/raw/main/1280x640.png)
 
 ## Kontakt
 
