@@ -1,4 +1,4 @@
-# [Wykop.pl Unofficial Community Issues](https://github.com/Wykop-pl/Issues/issues)
+# [Wykop.pl Community Issues](https://github.com/Wykop-pl/Issues/issues)
 
 <a href="https://github.com/Wykop-pl/Issues/issues">![Wykop.pl](https://github.com/Wykop-pl/statics/raw/main/wykop-uci-recznie.png)</a>
 
